@@ -97,7 +97,7 @@ Si vous rencontrez des problèmes, veuillez consulter la [documentation SonarQub
 http://localhost:9000
 ``
 
-Cliquez sur ``Log In`` (coin supérieur droit). L'identifiant et le mot de passe est "admin" (vous pouvez changer plus tard le mot de passe si vous le souhaitez). Après la connexion, vous pouvez cliquer sur ``Create New Project``. Pour le Project ``Key`` et ``Display``, tapez "JPacman" (si vous changez le nom, vous devrez adapter d'autres commandes plus tard, car ils utilisent la clé pour identifier le projet).
+Cliquez sur ``Log In`` (coin supérieur droit). L'identifiant et le mot de passe est "admin" (vous pouvez changer plus tard le mot de passe si vous le souhaitez). Après la connexion, vous pouvez cliquer sur ``Create New Project`` (ou ``Create a project manually``, dépendamment de votre version de SonarQube). Pour le Project ``Key`` et ``Display``, tapez "JPacman" (si vous changez le nom, vous devrez adapter d'autres commandes plus tard, car ils utilisent la clé pour identifier le projet).
 
 Maintenant, vous verrez la page ``Analyze your Project``. Dans la première étape, pour le nom de token, tapez ``jpacmantoken``. Cliquez sur ``generate`` puis ``continue`` (rappelez-vous ce code généré pour l'étape 2).
 
