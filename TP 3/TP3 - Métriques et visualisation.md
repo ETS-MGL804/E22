@@ -36,7 +36,7 @@ construire un plan d’action ou un rapport de qualité pour un système logicie
 -	Le projet [JPacman](https://github.com/ouniali/jpacman).
 -	Le projet [React](https://github.com/facebook/react).
 -	[CodeScene](https://codescene.io/) : pas d’installation requise, mais il nécessite un compte GitHub. L'intégration de cet outil avec GitHub lui permet de visualiser vos répertoires de code. La partie dette technique (Technical Debt) affiche les cibles de refactoring. Les codes biomarqueurs (Code Biomarkers) montrent une analyse plus détaillée des odeurs (code smells), mais ce n'est disponible que pour les abonnements payants.
-- [Understand](https://scitools.com/) : Un outil puissant pour la visualisation, l'analyse et la mesure de logiciel. Vous pouvez avoir une licence gratuite avec votre compte de l’ETS via ce [lien](https://scitools.com/student/). Le tutoriel [suivant](https://scitools.com/support/complete-overview-video/) fournira une bonne prise en main pour commencer à utiliser l'outil.
+- [Understand](https://scitools.com/) : Un outil puissant pour la visualisation, l'analyse et la mesure de logiciel. Vous pouvez avoir une licence gratuite avec votre compte de l’ETS via ce [lien](https://scitools.com/student/). Le tutoriel [suivant](https://www.youtube.com/watch?v=GB7cbdgJ2j8&t=2037s) fournira une bonne prise en main pour commencer à utiliser l'outil.
 - [JsCity](https://github.com/ASERG-UFMG/JSCity/wiki/JSCITY) : outil de visualisation de logiciel en 3D. JsCity est une version de [CodeCity](https://wettel.github.io/codecity.html) pour analyser du code JavaScript.
 - [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) : Un API/outil qui détecte l’historique des opérations de refactoring appliquées dans un projet (Java).
 
