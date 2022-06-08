@@ -84,7 +84,7 @@ Cette première tâche a deux objectifs : <br/>
 (i) vous aider à vous familiariser avec l'interface de CodeScene ;<br/>
 (ii) observer si toutes les visualisations sont utiles pour la maintenance.
 
-Visitez le site Web de CodeScene et cliquez sur les examples illustratifs fournis ([Demo](https://codescene.io/showcase)). Ce sont des exemples (à partir d'une version complète de CodeScene et pas seulement de la version gratuite que nous utilisons) de projets analysés par CodeScene. Sélectionnez le projet ``React``.
+Visitez le site Web de [CodeScene](https://codescene.com/) et cliquez sur les examples illustratifs fournis ([Demo](https://codescene.io/showcase)). Ce sont des exemples (à partir d'une version complète de CodeScene et pas seulement de la version gratuite que nous utilisons) de projets analysés par CodeScene. Sélectionnez le projet ``React``.
 
 Visitez le site Web de [JsCity](https://github.com/ASERG-UFMG/JSCity/wiki/JSCITY) et regardez les exemples. Vous pouvez d'abord sélectionner un exemple simple pour vous familiariser. Par la suite, sélectionnez le projet ``React`` et visualisez le (soyez patient car cela peut prendre un certain temps).
 
