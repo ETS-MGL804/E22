@@ -6,4 +6,4 @@
 
 [TP #2 - Assistants de refactoring](https://github.com/ETS-MGL804/E22/blob/main/TP%202/TP2%20-%20Assistants%20de%20Refactoring.md)
 
-TP #3 - Métriques et visualisation
+[TP #3 - Métriques et visualisation](https://github.com/ETS-MGL804/E22/blob/main/TP%203/TP3%20-%20M%C3%A9triques%20et%20visualisation.md)
